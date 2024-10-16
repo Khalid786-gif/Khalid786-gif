@@ -1,3 +1,4 @@
+<div><img src="https://github.com/Khalid786-gif/Khalid786-gif/blob/main/QABanner.jpg" height="250px" width="1000px"></div>
 <h1 align="center">Hi 👋, I'm Khalid B</h1>
 <h3 align="center">I’m a passionate Software Development Engineer in Test (SDET) looking to jumpstart my career. With a strong foundation in software testing and a keen interest in automation, I'm excited to ensure the highest quality in software products.</h3>
 
