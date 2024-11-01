@@ -17,7 +17,10 @@
 - ⚡ Fun fact **I like experimenting in the kitchen, trying out new recipes as a fun way to practice precision—just like coding!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/khalid-b-9b2363203/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Khalid786-gif/Khalid786-gif/main/LinkedIn_Badge_Image.png" alt="KhalidLinkedInProfile" width="300px" height="400px"/> </a></p>
+
+<a href="https://www.linkedin.com/in/khalid-b-9b2363203/" target="_blank" target="__blank">
+  <img src="https://raw.githubusercontent.com/Khalid786-gif/Khalid786-gif/main/LinkedIn_Badge_Image.png" width="300" height="400" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
