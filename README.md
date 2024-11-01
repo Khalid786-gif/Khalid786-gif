@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/khalid-b-9b2363203/" target="_blank" target="__blank">
-  <img src="https://raw.githubusercontent.com/Khalid786-gif/Khalid786-gif/main/LinkedIn_Badge_Image.png" width="300" height="400" />
+  <img src="https://raw.githubusercontent.com/Khalid786-gif/Khalid786-gif/main/LinkedIn_Badge_Image.png" width="250" height="350" />
 </a>
 
 
